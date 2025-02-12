@@ -2,7 +2,7 @@
 
 
 
-![image-20250212150639848](C:\Users\eduar\AppData\Roaming\Typora\typora-user-images\image-20250212150639848.png)
+![Image](https://github.com/user-attachments/assets/e68300e1-0791-4c4a-862f-95d2ce576ff4)
 
 Especificaciones:
 
