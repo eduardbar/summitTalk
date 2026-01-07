@@ -1,6 +1,6 @@
 # 🔒 SummitTalk: Mensajería Corporativa Segura
 
-![SummitTalk Preview](https://github.com/user-attachments/assets/e68300e1-0791-4c4a-862f-95d2ce576ff4)
+![SummitTalk Preview](frontend/public/og-image.png)
 
 **SummitTalk** es una plataforma de mensajería instantánea de nivel empresarial, diseñada específicamente para organizaciones que requieren la máxima privacidad y seguridad en sus comunicaciones. A diferencia de las aplicaciones de chat convencionales, SummitTalk garantiza un entorno blindado para compartir información sensible, estrategias y documentos corporativos.
 
